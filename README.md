@@ -1,3 +1,2 @@
-# CHAN UNITS Website
-
-Smart Platform for Underground Construction Intelligence.
+# CHAN UNITS – 500,000 CHAN เพื่อโลกปลอดภัย
+เว็บไซต์อย่างเป็นทางการของระบบวิเคราะห์ฐานราก CHAN UNITS
